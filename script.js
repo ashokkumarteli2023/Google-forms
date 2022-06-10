@@ -51,3 +51,7 @@ function loadQuiz(){
  function deselect(){
      
  }
+
+ function chutiya(){
+     console.log(mc bhim);
+ }
