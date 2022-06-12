@@ -57,5 +57,5 @@ function loadQuiz(){
  }
 
  const submit=()=>{
-    document.write("you have submiited successfully");
+    document.write("you have submiited successfully. Thanks for giving test. We wish you all the best for your career.");
  }
